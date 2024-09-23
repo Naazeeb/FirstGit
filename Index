@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page</title>
+    <link rel="stylesheet" href="./Styles">
+</head>
+
+<body>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <div class="hero-text">
+
+                    <h1>NovaTech Solutions</h1>
+
+                    <p>Innovación que impulsa el futuro</p>
+
+                    <div class="hero-buttons">
+                        <a href="#" class="btn-primary">CONTACTO</a>
+                        <a href="#" class="btn-secondary">DESCUBRE MÁS</a>
+                    </div>
+                </div>
+                
+                <div class="hero-image">
+                    <img src="./Novatech-Logo.png" alt="NovaTech-Logo">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Informative Section -->
+    <section class="informative">
+        <div class="container text-center">
+            <h2>Información</h2>
+            <p>
+                NovaTech Solutions se dedica a proporcionar soluciones tecnológicas avanzadas y accesibles que transforman la manera en que las empresas operan y las personas interactúan con la tecnología. Nuestro objetivo es impulsar el progreso mediante la innovación y la eficiencia, ofreciendo productos y servicios que faciliten un futuro más conectado y productivo.
+            </p>
+        </div>
+    </section>
+
+</body>
+</html>
